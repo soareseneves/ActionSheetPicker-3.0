@@ -14,8 +14,7 @@ let package = Package(
         .target(
             name: "CoreActionSheetPicker",
             dependencies: [],
-            path: "CoreActionSheetPicker/CoreActionSheetPicker",
-            publicHeadersPath: "Pickers"
+            path: "CoreActionSheetPicker/CoreActionSheetPicker"
         )
     ],
 
